@@ -1,7 +1,10 @@
 # Spectrum-Test
 
 ## Technology Stack to be used:
--> HTML -CSS -JS -Bootstrap
+> HTML 
+> CSS 
+> JS 
+> Bootstrap
 
 
 ## Tasks:
