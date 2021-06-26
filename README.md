@@ -4,7 +4,7 @@
 -> HTML -CSS -JS -Bootstrap
 
 
-##Tasks:
+## Tasks:
 
 1- Aim of the Task:- To make a simple landing page for Spectrum Club.
 2- Sections to be made:-
